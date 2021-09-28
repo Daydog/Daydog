@@ -4,7 +4,6 @@
 
 我的[2021](https://github.com/Daydog/2021)
 
-我的[2020](https://github.com/Daydog/2020)
 
 我的[gitblog](https://github.com/Daydog/gitblog)
 
