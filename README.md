@@ -4,6 +4,7 @@ Github, it's not just for coder, everyone should try it.
 
 我的[2021](https://github.com/Daydog/2021)
 
+我的[logseq](https://github.com/Daydog/logseq)
 
 我的[gitblog](https://github.com/Daydog/gitblog)
 
