@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+Github, it's not just for coder, everyone should try it.
 
 我的[2021](https://github.com/Daydog/2021)
 
