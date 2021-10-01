@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Github is not just for coders, everyone should try it.
-
-我的[2021](https://github.com/Daydog/2021)
+~
+[2021](https://github.com/Daydog/2021)
+[2020](https://github.com/Daydog/2020)
+~
 
 我的[logseq](https://github.com/Daydog/logseq)
 
